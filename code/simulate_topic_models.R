@@ -58,7 +58,7 @@ trainSimTopicModels <- function(i) {
     
     save(sim_lda15, file = paste("topicmodel_k15_sim", i, ".rda", sep=""))
     
-    # Simulated topic models to compare to alternataive model (k = 35)
+    # Simulated topic models to compare to alternative model (k = 35)
     
     k <- 35
     control_LDA_Gibbs = list(alpha = 50/k,
