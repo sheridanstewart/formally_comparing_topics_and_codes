@@ -1,3 +1,7 @@
+
+
+[![DOI](https://zenodo.org/badge/582539877.svg)](https://zenodo.org/badge/latestdoi/582539877)
+
 # Code for “Formally Comparing Topic Models and Human-Generated Qualitative Coding of Physician Mothers’ Experiences of Workplace Discrimination”
 
 This repository contains the code used in “Formally Comparing Topic Models and Human-Generated Qualitative Coding of Physician Mothers’ Experiences of Workplace Discrimination” by Adam S. Miner, Sheridan A. Stewart, Meghan C. Halley, Laura K. Nelson, and Eleni Linos. Please refer to [the original paper](https://doi.org/10.1177/20539517221149106) in *Big Data & Society*. In this paper, we evaluate whether topic models identify themes similar to those found by human coders in [a prior qualitative analysis](https://doi.org/10.1136/bmj.k4926) of physician mothers’ experiences of workplace discrimination.
